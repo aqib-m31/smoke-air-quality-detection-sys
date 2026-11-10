@@ -64,3 +64,11 @@ An automated environmental monitoring system using a master-slave architecture. 
 - Bluetooth units maintain line-of-sight within approximately 10 meters
 - The system operates as a reactive control prototype — it activates ventilation upon threshold breach and stops when readings normalize
 - No data logging or remote monitoring is implemented in the current version
+
+
+## Mentored by
+
+Dr Tawseef Ahmed Teli<br>
+Assistant Professor<br>
+Higher Education Department<br>
+Govt. of Jammu and Kashmir, India
